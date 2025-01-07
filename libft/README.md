@@ -1,0 +1,52 @@
+# libft
+## Libc functions:
+
+- [x] :page_facing_up: [ft_memset.c](./ft_memset.c)
+- [x] :page_facing_up: [ft_strrchr.c](./ft_strrchr.c)
+- [x] :page_facing_up: [ft_bzero.c](./ft_bzero.c)
+- [x] :page_facing_up: [ft_strnstr.c](./ft_strnstr.c)
+- [x] :page_facing_up: [ft_memcpy.c](./ft_memcpy.c)
+- [x] :page_facing_up: [ft_strncmp.c](./ft_strncmp.c)
+- [x] :page_facing_up: [ft_memccpy.c](./ft_memccpy.c)
+- [x] :page_facing_up: [ft_atoi.c](./ft_atoi.c)
+- [x] :page_facing_up: [ft_memmove.c](./ft_memmove.c)
+- [x] :page_facing_up: [ft_isalpha.c](./ft_isalpha.c)
+- [x] :page_facing_up: [ft_memchr.c](./ft_memchr.c)
+- [x] :page_facing_up: [ft_isdigit.c](./ft_isdigit.c)
+- [x] :page_facing_up: [ft_memcmp.c](./ft_memcmp.c)
+- [x] :page_facing_up: [ft_isalnum.c](./ft_isalnum.c)
+- [x] :page_facing_up: [ft_strlen.c](./ft_strlen.c)
+- [x] :page_facing_up: [ft_isascii.c](./ft_isascii.c)
+- [x] :page_facing_up: [ft_strlcpy.c](./ft_strlcpy.c)
+- [x] :page_facing_up: [ft_isprint.c](./ft_isprint.c)
+- [x] :page_facing_up: [ft_strlcat.c](./ft_strlcat.c)
+- [x] :page_facing_up: [ft_toupper.c](./ft_toupper.c)
+- [x] :page_facing_up: [ft_strchr.c](./ft_strchr.c)
+- [x] :page_facing_up: [ft_tolower.c](./ft_tolower.c)
+- [x] :page_facing_up: [ft_calloc.c](./ft_calloc.c)
+- [x] :page_facing_up: [ft_strdup.c](./ft_strdup.c)
+
+## Additional functions:
+
+- [x] :page_facing_up: [ft_substr.c](./ft_substr.c)
+- [x] :page_facing_up: [ft_strjoin.c](./ft_strjoin.c)
+- [x] :page_facing_up: [ft_strtrim.c](./ft_strtrim.c)
+- [x] :page_facing_up: [ft_split.c](./ft_split.c)
+- [x] :page_facing_up: [ft_itoa.c](./ft_itoa.c)
+- [x] :page_facing_up: [ft_strmapi.c](./ft_strmapi.c)
+- [x] :page_facing_up: [ft_putchar_fd.c](./ft_putchar_fd.c)
+- [x] :page_facing_up: [ft_putstr_fd.c](./ft_putstr_fd.c)
+- [x] :page_facing_up: [ft_putendl_fd.c](./ft_putendl_fd.c)
+- [x] :page_facing_up: [ft_putnbr_fd.c](./ft_putnbr_fd.c)
+
+## Bonus part:
+
+- [x] :page_facing_up: [ft_lstnew_bonus.c](./ft_lstnew_bonus.c)
+- [x] :page_facing_up: [ft_lstadd_front_bonus.c](./ft_lstadd_front_bonus.c)
+- [x] :page_facing_up: [ft_lstsize_bonus.c](./ft_lstsize_bonus.c)
+- [x] :page_facing_up: [ft_lstlast_bonus.c](./ft_lstlast_bonus.c)
+- [x] :page_facing_up: [ft_lstadd_back_bonus.c](./ft_lstadd_back_bonus.c)
+- [x] :page_facing_up: [ft_lstdelone_bonus.c](./ft_lstdelone_bonus.c)
+- [x] :page_facing_up: [ft_lstclear_bonus.c](./ft_lstclear_bonus.c)
+- [x] :page_facing_up: [ft_lstiter_bonus.c](./ft_lstiter_bonus.c)
+- [x] :page_facing_up: [ft_lstmap_bonus.c](./ft_lstmap_bonus.c)
