@@ -6,4 +6,5 @@ That means this cursus is not about coding, but about developing resilience, pre
 
 # Projects
 
-  - [x] :file_folder: [Libft](./libft/)
+  - [x] :file_folder: [libft](./libft/)
+  - [x] :file_folder: [ft_printf](./ft_printf/)
